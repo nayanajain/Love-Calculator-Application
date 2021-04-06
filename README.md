@@ -9,7 +9,8 @@ This is a spring mvc project which uses the concept and insights of
 - Cookies
 - ModelAttribute
 - InitBinders and so on.
-I have used java based configuration to configure the project. 
-The project also sends the mail to the requested mailId. 
-It is a fun- application which calculates whether the couple are in love or just friends. 
+
+i) I have used java based configuration to configure the project. 
+ii) The project also sends the mail to the requested mailId. 
+iii) It is a fun- application which calculates whether the couple are in love or just friends. 
 
